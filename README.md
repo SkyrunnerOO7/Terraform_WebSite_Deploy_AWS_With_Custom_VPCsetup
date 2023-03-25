@@ -1,6 +1,6 @@
-#Created a Custom VPC setup and Deployed a website via Terrafrom
+# Created a Custom VPC setup and Deployed a website via Terrafrom in AWS
 
-##VPC
+## VPC
  >subnet
  >
  >insternet gateway
@@ -9,7 +9,7 @@
  >
  >security group
  
-##Ec2 instance
+## Ec2 instance
 
  >key pair
  >
