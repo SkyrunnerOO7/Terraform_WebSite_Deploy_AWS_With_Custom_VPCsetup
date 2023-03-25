@@ -1,17 +1,18 @@
-# Terraform_WebSite_Deploy_AWS_With_Custom_VPCsetup
-Terraform_WebSite_Deploy_AWS_With_Custom_VPCsetup
-##Created via terrafrom
+#Created a Custom VPC setup and Deployed a website via Terrafrom
 
--VPC
-
- -subnet
- -insternet gateway
- -route table
- -security group
+##VPC
+ >subnet
+ >
+ >insternet gateway
+ >
+ >route table
+ >
+ >security group
  
- 
--Ec2 instance
+##Ec2 instance
 
- -key pair
- -provisioning
-  -deploy a web site
+ >key pair
+ >
+ >provisioning
+ >
+ >deploy a web site
